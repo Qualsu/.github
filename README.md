@@ -1,1 +1,2 @@
-# .github
+# Qualsu
+https://qual.su
