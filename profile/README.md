@@ -16,7 +16,7 @@
 
 [Telegram](https://t.me/qualsu)
 |
-[VK](https://vk.com/qual_su)
+[VK](https://vk.com/qualsu)
 |
 [Site](https://qual.su)
 
