@@ -7,7 +7,7 @@
 </h1>
 
 <h3 align="center">
-	Мы - создаем будущее
+	Кодим так, что Интернет плачет
 </h3>
 
 <h2 align="center">Link</h2>
@@ -15,8 +15,6 @@
 <div align="center">
 
 [Telegram](https://t.me/qualsu)
-|
-[VK](https://vk.com/qualsu)
 |
 [Site](https://qual.su)
 
