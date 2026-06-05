@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://qual.su/logo/full-logo.png" style="width: 500px"/>
+    <img src="https://qual.su/logo.png" style="width: 500px"/>
 </p>
 
 <h1 align="center">
